@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "../ReactAlaxioneCalendar/static/css/main.8bb5d8f5.chunk.css",
+    "main.js": "../ReactAlaxioneCalendar/static/js/main.c04d6cf3.chunk.js",
+    "main.js.map": "../ReactAlaxioneCalendar/static/js/main.c04d6cf3.chunk.js.map",
+    "runtime-main.js": "../ReactAlaxioneCalendar/static/js/runtime-main.9d7773a9.js",
+    "runtime-main.js.map": "../ReactAlaxioneCalendar/static/js/runtime-main.9d7773a9.js.map",
+    "static/css/2.2b384093.chunk.css": "../ReactAlaxioneCalendar/static/css/2.2b384093.chunk.css",
+    "static/js/2.6cef6527.chunk.js": "../ReactAlaxioneCalendar/static/js/2.6cef6527.chunk.js",
+    "static/js/2.6cef6527.chunk.js.map": "../ReactAlaxioneCalendar/static/js/2.6cef6527.chunk.js.map",
+    "index.html": "../ReactAlaxioneCalendar/index.html",
+    "static/css/2.2b384093.chunk.css.map": "../ReactAlaxioneCalendar/static/css/2.2b384093.chunk.css.map",
+    "static/css/main.8bb5d8f5.chunk.css.map": "../ReactAlaxioneCalendar/static/css/main.8bb5d8f5.chunk.css.map",
+    "static/js/2.6cef6527.chunk.js.LICENSE.txt": "../ReactAlaxioneCalendar/static/js/2.6cef6527.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d7773a9.js",
+    "static/css/2.2b384093.chunk.css",
+    "static/js/2.6cef6527.chunk.js",
+    "static/css/main.8bb5d8f5.chunk.css",
+    "static/js/main.c04d6cf3.chunk.js"
+  ]
+}

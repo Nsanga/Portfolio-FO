@@ -1,0 +1,12 @@
+{
+  "name": "predictfoot",
+  "version": "1.0",
+  "description": "predict football with machinelearning",
+  "main": "app.js",
+  "author": "nteguemroland",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
